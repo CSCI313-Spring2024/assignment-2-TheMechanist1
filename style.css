@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    margin-bottom: 30px;
+}
+
+img.img-thumbnail {
+    max-width: 200px;
+    margin: 20px 0;
+}
